@@ -18,7 +18,7 @@ This repository contains a simple and clean **Python version** of the algorithm.
 > A. Abdollahzadeh, H. Eslami, T. Mirjalili  
 > “Artificial Gorilla Troops Optimizer: A new nature-inspired metaheuristic algorithm.”  
 > *Engineering Applications of Artificial Intelligence*, Volume 94, 2021, 103830.  
-> https://doi.org/10.1016/j.engappai.2020.103830
+> [https://doi.org/10.1016/j.engappai.2020.103830](https://www.researchgate.net/publication/353186350_Artificial_gorilla_troops_optimizer_A_new_nature-inspired_metaheuristic_algorithm_for_global_optimization_problems)
 
  Original MATLAB implementation provided by authors:
 https://github.com/Benyamin-abdollahzadeh/Artificial-gorilla-troops-optimizer
